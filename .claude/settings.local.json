@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(echo \"=== Datei: C:\\\\\\\\Users\\\\\\\\troba\\\\\\\\Desktop\\\\\\\\Website\\\\\\\\index.html ===\")",
+      "Bash(awk '{print \"Zeilen gesamt: \"$1}')",
+      "Bash(awk '{print \"Größe: \"$5\" Bytes\"}')",
+      "Bash(awk NR>=444 && NR<=510 *)",
+      "Bash(awk 'NR>=444 && NR<=510' /c/Users/troba/Desktop/Website/index.html)",
+      "Bash(awk 'NR>=1060 && NR<=1130' /c/Users/troba/Desktop/Website/index.html)",
+      "Bash(awk 'NR>=947 && NR<=1000' /c/Users/troba/Desktop/Website/index.html)",
+      "Bash(awk 'NR>=940 && NR<=950' /c/Users/troba/Desktop/Website/index.html)",
+      "Bash(awk 'NR>=947 && NR<=1021' /c/Users/troba/Desktop/Website/index.html)",
+      "Bash(sed 's/^[[:space:]]*//')",
+      "Bash(awk NR==36 {print length\\($0\\); print substr\\($0,1,500\\); print \"---\"; print substr\\($0,501,500\\); print \"---\"; print substr\\($0,1001,500\\)} *)",
+      "Bash(awk NR==36 {print substr\\($0,length\\($0\\)-500\\)} *)",
+      "Bash(awk NR>=215 && NR<=310 *)",
+      "Bash(awk NR>=425 && NR<=460 *)",
+      "Bash(awk NR>=437 && NR<=442 *)",
+      "Bash(awk NR>=349 && NR<=395 *)",
+      "Bash(awk NR>=438 && NR<=445 *)",
+      "Bash(awk NR==36 {print substr\\($0,1,200\\)} *)",
+      "Bash(awk NR>=1075 && NR<=1170 *)"
+    ]
+  }
+}

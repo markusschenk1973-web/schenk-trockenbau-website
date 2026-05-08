@@ -1,0 +1,85 @@
+[
+    {
+        "titel":  "NEUGESTALTUNG KÜCHE",
+        "text":  "Aus einer geschlossenen Küche wird eine offene Wohnküche: Ständerwände entfernt, neue Deckengestaltung mit indirekter Beleuchtung, Betonoptik-Oberflächen und moderne Küchenintegration.",
+        "titelbild":  "assets_referenzen/Lanz Küche Titelbild.jpg",
+        "bilder":  [
+                       "assets_referenzen/IMG-20210226-WA0001.jpg",
+                       "assets_referenzen/20210209_144531.jpg",
+                       "assets_referenzen/20210209_141522.jpg",
+                       "assets_referenzen/20210226_124452.jpg",
+                       "assets_referenzen/20210613_102453.jpg",
+                       "assets_referenzen/20210613_102825.jpg",
+                       "assets_referenzen/IMG-20210625-WA0000.jpg",
+                       "assets_referenzen/IMG-20210625-WA0001.jpg",
+                       "assets_referenzen/IMG-20210625-WA0002.jpg"
+                   ],
+        "vorher":  true
+    },
+    {
+        "titel":  "Sanierung Badezimmer",
+        "text":  "Sanierung Badezimmer mit neuer Decke und stimmungsvoller Beleuchtung von Decke bis Wand. Klare Abtrennung zu Dusche und WC. Raumhohe graue Wandfliesen in modernem Betonlook – eine Wand als besonderer Akzent in elegantem Marmellook",
+        "titelbild":  "assets_referenzen/IMG-20240814-WA0027.jpg",
+        "bilder":  [
+                       "assets_referenzen/IMG-20240110-WA0014.jpg",
+                       "assets_referenzen/IMG-20240110-WA0015.jpg",
+                       "assets_referenzen/IMG-20240110-WA0017.jpg",
+                       "assets_referenzen/IMG-20240814-WA0023.jpg",
+                       "assets_referenzen/IMG-20240814-WA0024.jpg",
+                       "assets_referenzen/IMG-20240814-WA0025.jpg",
+                       "assets_referenzen/IMG-20240814-WA0027_20260507_113023.jpg",
+                       "assets_referenzen/20240625_174753.jpg"
+                   ],
+        "vorher":  true
+    },
+    {
+        "titel":  "Sanierung Badezimmer",
+        "text":  "Sanierung Badezimmer mit neuer Decke und stimmungsvoller Beleuchtung von Decke bis Wand. Klare Abtrennung zu Dusche und WC. Raumhohe graue Wandfliesen in modernem Betonlook – eine Wand als besonderer Akzent in elegantem Marmellook",
+        "titelbild":  "assets_referenzen/IMG-20240814-WA0025_20260507_115946.jpg",
+        "bilder":  [
+                       "assets_referenzen/IMG-20240110-WA0014_20260507_115946.jpg",
+                       "assets_referenzen/IMG-20240110-WA0015_20260507_115946.jpg",
+                       "assets_referenzen/IMG-20240110-WA0017_20260507_115946.jpg",
+                       "assets_referenzen/IMG-20240814-WA0023_20260507_115946.jpg",
+                       "assets_referenzen/IMG-20240814-WA0024_20260507_115946.jpg",
+                       "assets_referenzen/IMG-20240814-WA0025_20260507_115946.jpg",
+                       "assets_referenzen/IMG-20240814-WA0027_20260507_115946.jpg",
+                       "assets_referenzen/20240625_174753_20260507_115946.jpg",
+                       "assets_referenzen/20240814_111816.jpg"
+                   ],
+        "vorher":  true
+    },
+    {
+        "titel":  "Sanierung Badezimmer",
+        "text":  "Sanierung Badezimmer mit neuer Decke und stimmungsvoller Beleuchtung von Decke bis Wand. Klare Abtrennung zu Dusche und WC. Raumhohe graue Wandfliesen in modernem Betonlook – eine Wand als besonderer Akzent in elegantem Marmellook",
+        "titelbild":  "assets_referenzen/IMG-20240814-WA0025_20260507_120455.jpg",
+        "bilder":  [
+
+                   ],
+        "vorher":  true
+    },
+    {
+        "titel":  "Sanierung Badezimmer",
+        "text":  "Sanierung Badezimmer mit neuer Decke und stimmungsvoller Beleuchtung von Decke bis Wand. Klare Abtrennung zu Dusche und WC. Raumhohe graue Wandfliesen in modernem Betonlook – eine Wand als besonderer Akzent in elegantem Marmellook",
+        "titelbild":  "assets_referenzen/IMG-20240814-WA0025_20260507_120541.jpg",
+        "bilder":  [
+
+                   ],
+        "vorher":  true
+    },
+    {
+        "titel":  "Sanierung Badezimmer",
+        "text":  "Sanierung Badezimmer mit neuer Decke und stimmungsvoller Beleuchtung von Decke bis Wand. Klare Abtrennung zu Dusche und WC. Raumhohe graue Wandfliesen in modernem Betonlook – eine Wand als besonderer Akzent in elegantem Marmellook",
+        "titelbild":  "assets_referenzen/IMG-20240814-WA0025_20260507_120729.jpg",
+        "bilder":  [
+                       "assets_referenzen/IMG-20240110-WA0014_20260507_120729.jpg",
+                       "assets_referenzen/IMG-20240110-WA0015_20260507_120729.jpg",
+                       "assets_referenzen/IMG-20240110-WA0017_20260507_120729.jpg",
+                       "assets_referenzen/IMG-20240814-WA0023_20260507_120729.jpg",
+                       "assets_referenzen/IMG-20240814-WA0024_20260507_120729.jpg",
+                       "assets_referenzen/IMG-20240814-WA0027_20260507_120729.jpg",
+                       "assets_referenzen/IMG-20240814-WA0031.jpg"
+                   ],
+        "vorher":  true
+    }
+]
