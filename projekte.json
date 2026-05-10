@@ -1,7 +1,7 @@
 [
     {
-        "titel":  "NEUGESTALTUNG KÜCHE",
-        "text":  "Aus einer geschlossenen Küche wird eine offene Wohnküche: Ständerwände entfernt, neue Deckengestaltung mit indirekter Beleuchtung, Betonoptik-Oberflächen und moderne Küchenintegration.",
+        "titel":  "Luxus-Wohnküche: Beton-Design \u0026 Lichtarchitektur",
+        "text":  "In diesem Projekt in Thalhausen haben wir eine gewöhnliche Küche in ein modernes Design-Highlight verwandelt. Der Fokus lag auf der perfekten Kombination von Oberfläche und Licht.\n\nUnsere Umsetzung:\n\nWanddesign: Fugenlose Betonoptik für einen markanten Loft-Look.\n\nDeckengestaltung: Maßgefertigte Trockenbau-Decke mit umlaufenden LED-Vouten für eine indirekte, exklusive Beleuchtung.\n\nPräzision: Saubere Schattenfugen und Q4-Spachtelung für ein makelloses Finish.\n\nEin Referenzprojekt, das zeigt, wie moderne Deckengestaltung und hochwertige Oberflächen einen Raum komplett aufwerten – realisiert im Westerwald.",
         "titelbild":  "assets_referenzen/Lanz Küche Titelbild.jpg",
         "bilder":  [
                        "assets_referenzen/IMG-20210226-WA0001.jpg",
@@ -14,78 +14,13 @@
                        "assets_referenzen/IMG-20210625-WA0001.jpg",
                        "assets_referenzen/IMG-20210625-WA0002.jpg"
                    ],
-        "vorher":  true
+        "vorher":  true,
+        "gewerk":  "trockenbau,deckengestaltung,betonoptik"
     },
     {
-        "titel":  "Sanierung Badezimmer",
-        "text":  "Sanierung Badezimmer mit neuer Decke und stimmungsvoller Beleuchtung von Decke bis Wand. Klare Abtrennung zu Dusche und WC. Raumhohe graue Wandfliesen in modernem Betonlook – eine Wand als besonderer Akzent in elegantem Marmellook",
-        "titelbild":  "assets_referenzen/IMG-20240814-WA0027.jpg",
-        "bilder":  [
-                       "assets_referenzen/IMG-20240110-WA0014.jpg",
-                       "assets_referenzen/IMG-20240110-WA0015.jpg",
-                       "assets_referenzen/IMG-20240110-WA0017.jpg",
-                       "assets_referenzen/IMG-20240814-WA0023.jpg",
-                       "assets_referenzen/IMG-20240814-WA0024.jpg",
-                       "assets_referenzen/IMG-20240814-WA0025.jpg",
-                       "assets_referenzen/IMG-20240814-WA0027_20260507_113023.jpg",
-                       "assets_referenzen/20240625_174753.jpg"
-                   ],
-        "vorher":  true
-    },
-    {
-        "titel":  "Sanierung Badezimmer",
-        "text":  "Sanierung Badezimmer mit neuer Decke und stimmungsvoller Beleuchtung von Decke bis Wand. Klare Abtrennung zu Dusche und WC. Raumhohe graue Wandfliesen in modernem Betonlook – eine Wand als besonderer Akzent in elegantem Marmellook",
-        "titelbild":  "assets_referenzen/IMG-20240814-WA0025_20260507_115946.jpg",
-        "bilder":  [
-                       "assets_referenzen/IMG-20240110-WA0014_20260507_115946.jpg",
-                       "assets_referenzen/IMG-20240110-WA0015_20260507_115946.jpg",
-                       "assets_referenzen/IMG-20240110-WA0017_20260507_115946.jpg",
-                       "assets_referenzen/IMG-20240814-WA0023_20260507_115946.jpg",
-                       "assets_referenzen/IMG-20240814-WA0024_20260507_115946.jpg",
-                       "assets_referenzen/IMG-20240814-WA0025_20260507_115946.jpg",
-                       "assets_referenzen/IMG-20240814-WA0027_20260507_115946.jpg",
-                       "assets_referenzen/20240625_174753_20260507_115946.jpg",
-                       "assets_referenzen/20240814_111816.jpg"
-                   ],
-        "vorher":  true
-    },
-    {
-        "titel":  "Sanierung Badezimmer",
-        "text":  "Sanierung Badezimmer mit neuer Decke und stimmungsvoller Beleuchtung von Decke bis Wand. Klare Abtrennung zu Dusche und WC. Raumhohe graue Wandfliesen in modernem Betonlook – eine Wand als besonderer Akzent in elegantem Marmellook",
-        "titelbild":  "assets_referenzen/IMG-20240814-WA0025_20260507_120455.jpg",
-        "bilder":  [
-
-                   ],
-        "vorher":  true
-    },
-    {
-        "titel":  "Sanierung Badezimmer",
-        "text":  "Sanierung Badezimmer mit neuer Decke und stimmungsvoller Beleuchtung von Decke bis Wand. Klare Abtrennung zu Dusche und WC. Raumhohe graue Wandfliesen in modernem Betonlook – eine Wand als besonderer Akzent in elegantem Marmellook",
-        "titelbild":  "assets_referenzen/IMG-20240814-WA0025_20260507_120541.jpg",
-        "bilder":  [
-
-                   ],
-        "vorher":  true
-    },
-    {
-        "titel":  "Sanierung Badezimmer",
-        "text":  "Sanierung Badezimmer mit neuer Decke und stimmungsvoller Beleuchtung von Decke bis Wand. Klare Abtrennung zu Dusche und WC. Raumhohe graue Wandfliesen in modernem Betonlook – eine Wand als besonderer Akzent in elegantem Marmellook",
-        "titelbild":  "assets_referenzen/IMG-20240814-WA0025_20260507_120729.jpg",
-        "bilder":  [
-                       "assets_referenzen/IMG-20240110-WA0014_20260507_120729.jpg",
-                       "assets_referenzen/IMG-20240110-WA0015_20260507_120729.jpg",
-                       "assets_referenzen/IMG-20240110-WA0017_20260507_120729.jpg",
-                       "assets_referenzen/IMG-20240814-WA0023_20260507_120729.jpg",
-                       "assets_referenzen/IMG-20240814-WA0024_20260507_120729.jpg",
-                       "assets_referenzen/IMG-20240814-WA0027_20260507_120729.jpg",
-                       "assets_referenzen/IMG-20240814-WA0031.jpg"
-                   ],
-        "vorher":  true
-    },
-    {
-        "titel":  "Sanierung Badezimmer",
-        "text":  "Sanierung Badezimmer mit neuer Decke und stimmungsvoller Beleuchtung von Decke bis Wand. Klare Abtrennung zu Dusche und WC. Raumhohe graue Wandfliesen in modernem Betonlook – eine Wand als besonderer Akzent in elegantem Marmellook",
-        "titelbild":  "assets_referenzen/IMG-20240814-WA0025_20260507_121204.jpg",
+        "titel":  "Exklusiver Bad-Innenausbau: Präzision \u0026 Lichtdesign",
+        "text":  "In diesem Projekt in Thalhausen haben wir die komplette Trockenbau-Infrastruktur für ein High-End Badezimmer realisiert.\n\nUnsere Umsetzung:\n\nMaßgeschneiderter Trockenbau: Erstellung von T-Wand-Lösungen und passgenauen Wandnischen, die die Geometrie der großformatigen Fliesen perfekt aufnehmen.\n\nLichtarchitektur: Installation von nahtlosen LED-Lichtlinien, die von der Decke in die Wand übergehen und die Fliesenstruktur optimal betonen.\n\nUntergrund-Vorbereitung: Präzise Spachtelung in Q3-Qualität als ideale Basis für die fachgerechte Verlegung der großformatigen Fliesen in Betonoptik.\n\nRaumkonzept: Funktionale Trennung von Dusch- und WC-Bereich durch freistehende Wandelemente.\n\nHandwerkliche Perfektion im Innenausbau – die Basis für jedes Luxus-Bad im Westerwald.",
+        "titelbild":  "assets_referenzen/IMG-20240814-WA0027_20260507_121204.jpg",
         "bilder":  [
                        "assets_referenzen/IMG-20240110-WA0014_20260507_121204.jpg",
                        "assets_referenzen/IMG-20240110-WA0015_20260507_121204.jpg",
@@ -96,6 +31,59 @@
                        "assets_referenzen/IMG-20240814-WA0027_20260507_121204.jpg",
                        "assets_referenzen/20240814_111816_20260507_121204.jpg"
                    ],
-        "vorher":  true
+        "vorher":  true,
+        "gewerk":  "trockenbau,innenausbau"
+    },
+    {
+        "titel":  "Gewerbe-Innenausbau: Akustikdecken \u0026 Lichtarchitektur",
+        "text":  "Dieses gewerbliche Großprojekt in Boppard zeigt unsere Kompetenz im schlüsselfertigen Innenausbau für medizinische Einrichtungen. Der Fokus lag hier auf der akustischen und visuellen Aufwertung der Praxisräume.\n\nUnsere Umsetzung in Teil 1:\n\nAkustikdecken: Montage einer perforierten OWA-Akustikdecke zur Reduzierung des Nachhalls in Behandlungsräumen und Fluren – für absolute Diskretion.\n\nIntegrierte Beleuchtung: Maßgenaue Installation von bündigen LED-Lichtbändern in der Deckenstruktur für schattenfreies Arbeitslicht.\n\nBodenbelag: Fachgerechte Verlegung eines strapazierfähigen Bodens in Holzoptik, der Belastbarkeit mit warmer Ästhetik verbindet.\n\nKomplettmontage: Wir haben die komplexe Infrastruktur an der Decke (Lüftung, Elektro) souverän verkoffert und veredelt.\n\nEin Referenzprojekt, das zeigt, wie Schenk Trockenbau Akustik, Licht und Boden zu einem perfekten Gesamtergebnis vereint – termingerecht und professionell im Raum Mittelrhein.",
+        "titelbild":  "assets_referenzen/20220519_103112_20260510_143954.jpg",
+        "bilder":  [
+                       "assets_referenzen/Physio 2 Boppard Teil 1.jpg",
+                       "assets_referenzen/Physio 3 Boppard Teil 1.jpg",
+                       "assets_referenzen/Physio 4 Boppard Teil 1.jpg",
+                       "assets_referenzen/Physio 5 Boppard Teil 1.jpg",
+                       "assets_referenzen/Physio 6 Boppard Teil 1.jpg",
+                       "assets_referenzen/Physio 7 Boppard Teil 1.jpg",
+                       "assets_referenzen/Physio Boppard Teil 1.jpg"
+                   ],
+        "vorher":  true,
+        "gewerk":  "trockenbau,deckengestaltung,akustikbau,bodenbelag"
+    },
+    {
+        "titel":  "Raumarchitektur \u0026 Schallschutz: Physio-Praxis Boppard (Teil 2)",
+        "text":  "Im zweiten Teil unserer Dokumentation zur Physio-Praxis in Boppard zeigen wir die Entstehung der Raumstruktur. Bei medizinischen Einrichtungen ist die Kombination aus Ästhetik und strengem Schallschutz die größte Herausforderung.\n\nUnsere Umsetzung in Teil 2:\n\nSchallschutz-Partitionierung: Erstellung von hochwirksamen Trennwandsystemen zwischen den Behandlungsräumen für maximale Diskretion und Patientenschutz.\n\nQ4-Oberflächen: Vollflächige Spachtelung der Wände für ein makelloses Finish, das auch bei modernem Streiflicht absolut glatt wirkt.\n\nPräzisions-Anschlüsse: Saubere Integration von Türzargen und Elektro-Infrastruktur in die Trockenbau-Elemente.\n\nGanzheitliches Design: Die Wände bilden den perfekten Rahmen für die in Teil 1 gezeigten Akustikdecken und den edlen Bodenbelag.\n\nHandwerkliche Perfektion, die Privatsphäre schafft – Ihr Experte für Praxis-Ausbau in Koblenz, Boppard und dem Mittelrheintal.",
+        "titelbild":  "assets_referenzen/20240405_100633_20260510_152906.jpg",
+        "bilder":  [
+                       "assets_referenzen/20231212_094926_20260510_152906.jpg",
+                       "assets_referenzen/20231212_094934_20260510_152906.jpg",
+                       "assets_referenzen/20231212_094952_20260510_152906.jpg",
+                       "assets_referenzen/20240201_125900_20260510_152906.jpg",
+                       "assets_referenzen/20240201_125912_20260510_152906.jpg",
+                       "assets_referenzen/20240322_105054_20260510_152906.jpg",
+                       "assets_referenzen/20240325_133825_20260510_152906.jpg",
+                       "assets_referenzen/20240405_100743_20260510_152907.jpg",
+                       "assets_referenzen/20240405_100502_20260510_152907.jpg",
+                       "assets_referenzen/20240405_100615_20260510_152907.jpg"
+                   ],
+        "vorher":  true,
+        "gewerk":  "trockenbau,deckengestaltung,akustikbau,bodenbelag"
+    },
+    {
+        "titel":  "Ganzheitliche Haussanierung: Vom Dachausbau bis zur Treppe",
+        "text":  "Dieses Projekt zeigt eindrucksvoll die Vorteile einer ganzheitlichen Sanierung durch Schenk Trockenbau. Im Rahmen einer kompletten Haussanierung haben wir den Wohnraum vom Dach bis zum Erdgeschoss neu definiert.\n\nUnsere Leistungen in diesem Objekt:\n\nExklusiver Dachausbau: Schaffung von hochwertigem Wohnraum durch modernste Dämmtechnik, Brandschutz und präzisen Trockenbau.\n\nDesign-Treppensanierung: Transformation einer alten Steintreppe in ein modernes Highlight durch passgenaue Vinyl-Veredelung in Eichenoptik.\n\nHarmonisches Gesamtkonzept: Durch die Ausführung beider Gewerke aus einer Hand konnten wir Materialübergänge und Designelemente perfekt aufeinander abstimmen.\n\nEin Paradebeispiel für effizienten Innenausbau und Wertsteigerung Ihrer Immobilie – realisiert im Raum Koblenz.",
+        "titelbild":  "assets_referenzen/IMG-20251112-WA0005[1].jpg",
+        "bilder":  [
+                       "assets_referenzen/IMG-20251112-WA0007[1].jpg",
+                       "assets_referenzen/IMG-20251112-WA0016[1].jpg",
+                       "assets_referenzen/IMG-20251112-WA0013[1].jpg",
+                       "assets_referenzen/IMG-20251112-WA0023[1].jpg",
+                       "assets_referenzen/IMG-20251112-WA0008[1].jpg",
+                       "assets_referenzen/IMG-20251112-WA0001[1].jpg",
+                       "assets_referenzen/IMG-20251112-WA0005[1].jpg",
+                       "assets_referenzen/20251113_074556[1].jpg"
+                   ],
+        "vorher":  true,
+        "gewerk":  "trockenbau,innenausbau,dachausbau,bodenbelag"
     }
 ]
