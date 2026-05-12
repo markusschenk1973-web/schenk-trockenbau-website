@@ -32,7 +32,9 @@
                        "assets_referenzen/20240814_111816_20260507_121204.jpg"
                    ],
         "vorher":  true,
-        "gewerk":  "trockenbau,innenausbau"
+        "gewerk":  "trockenbau,innenausbau",
+        "videoVorher":  "https://youtube.com/shorts/4Na0MJfCiJc",
+        "videoNachher":  "https://youtube.com/shorts/VpV1d809kRw"
     },
     {
         "titel":  "Gewerbe-Innenausbau: Akustikdecken \u0026 Lichtarchitektur",
